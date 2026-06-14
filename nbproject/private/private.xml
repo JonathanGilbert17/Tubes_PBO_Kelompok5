@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/D:/Telkom%20university/Sem%204/PBO/Tubes%20PBO/tubesPBO/web/index.jsp</file>
+            <file>file:/D:/Telkom%20university/Sem%204/PBO/Tubes%20PBO/tubesPBO/src/java/config/DBConnection.java</file>
+            <file>file:/D:/Telkom%20university/Sem%204/PBO/Tubes%20PBO/tubesPBO/src/java/config/TestConnection.java</file>
+            <file>file:/D:/Telkom%20university/Sem%204/PBO/Tubes%20PBO/tubesPBO/src/java/model/User.java</file>
+            <file>file:/D:/Telkom%20university/Sem%204/PBO/Tubes%20PBO/tubesPBO/src/java/model/Video.java</file>
+            <file>file:/D:/Telkom%20university/Sem%204/PBO/Tubes%20PBO/tubesPBO/src/java/dao/UserDAO.java</file>
+            <file>file:/D:/Telkom%20university/Sem%204/PBO/Tubes%20PBO/tubesPBO/web/login.jsp</file>
+            <file>file:/D:/Telkom%20university/Sem%204/PBO/Tubes%20PBO/tubesPBO/src/java/servlet/LoginServlet.java</file>
+            <file>file:/D:/Telkom%20university/Sem%204/PBO/Tubes%20PBO/tubesPBO/web/home.jsp</file>
+            <file>file:/D:/Telkom%20university/Sem%204/PBO/Tubes%20PBO/tubesPBO/src/java/dao/VideoDAO.java</file>
+            <file>file:/D:/Telkom%20university/Sem%204/PBO/Tubes%20PBO/tubesPBO/src/java/servlet/HomeServlet.java</file>
+            <file>file:/D:/Telkom%20university/Sem%204/PBO/Tubes%20PBO/tubesPBO/web/watch.jsp</file>
+            <file>file:/D:/Telkom%20university/Sem%204/PBO/Tubes%20PBO/tubesPBO/src/java/servlet/WatchServlet.java</file>
+            <file>file:/D:/Telkom%20university/Sem%204/PBO/Tubes%20PBO/tubesPBO/web/register.jsp</file>
+            <file>file:/D:/Telkom%20university/Sem%204/PBO/Tubes%20PBO/tubesPBO/web/upload.jsp</file>
+            <file>file:/D:/Telkom%20university/Sem%204/PBO/Tubes%20PBO/tubesPBO/src/java/servlet/UploadServlet.java</file>
+            <file>file:/D:/Telkom%20university/Sem%204/PBO/Tubes%20PBO/tubesPBO/src/java/servlet/SearchServlet.java</file>
+            <file>file:/D:/Telkom%20university/Sem%204/PBO/Tubes%20PBO/tubesPBO/src/java/servlet/LogoutServlet.java</file>
+            <file>file:/D:/Telkom%20university/Sem%204/PBO/Tubes%20PBO/tubesPBO/src/java/servlet/RegisterServlet.java</file>
+            <file>file:/D:/Telkom%20university/Sem%204/PBO/Tubes%20PBO/tubesPBO/src/java/dao/CommentDAO.java</file>
+            <file>file:/D:/Telkom%20university/Sem%204/PBO/Tubes%20PBO/tubesPBO/src/java/model/Comment.java</file>
+            <file>file:/D:/Telkom%20university/Sem%204/PBO/Tubes%20PBO/tubesPBO/src/java/servlet/FileServlet.java</file>
+        </group>
+    </open-files>
+</project-private>
