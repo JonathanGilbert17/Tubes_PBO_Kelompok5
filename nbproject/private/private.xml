@@ -25,6 +25,18 @@
             <file>file:/D:/Telkom%20university/Sem%204/PBO/Tubes%20PBO/tubesPBO/src/java/dao/CommentDAO.java</file>
             <file>file:/D:/Telkom%20university/Sem%204/PBO/Tubes%20PBO/tubesPBO/src/java/model/Comment.java</file>
             <file>file:/D:/Telkom%20university/Sem%204/PBO/Tubes%20PBO/tubesPBO/src/java/servlet/FileServlet.java</file>
+            <file>file:/D:/Telkom%20university/Sem%204/PBO/Tubes%20PBO/tubesPBO/src/java/dao/LikeDAO.java</file>
+            <file>file:/D:/Telkom%20university/Sem%204/PBO/Tubes%20PBO/tubesPBO/src/java/servlet/LikeServlet.java</file>
+            <file>file:/D:/Telkom%20university/Sem%204/PBO/Tubes%20PBO/tubesPBO/web/profile.jsp</file>
+            <file>file:/D:/Telkom%20university/Sem%204/PBO/Tubes%20PBO/tubesPBO/src/java/servlet/ProfileServlet.java</file>
+            <file>file:/D:/Telkom%20university/Sem%204/PBO/Tubes%20PBO/tubesPBO/src/java/servlet/ChannelServlet.java</file>
+            <file>file:/D:/Telkom%20university/Sem%204/PBO/Tubes%20PBO/tubesPBO/web/channel.jsp</file>
+            <file>file:/D:/Telkom%20university/Sem%204/PBO/Tubes%20PBO/tubesPBO/src/java/dao/SubscribeDAO.java</file>
+            <file>file:/D:/Telkom%20university/Sem%204/PBO/Tubes%20PBO/tubesPBO/src/java/servlet/SubscribeServlet.java</file>
+            <file>file:/D:/Telkom%20university/Sem%204/PBO/Tubes%20PBO/tubesPBO/src/java/dao/SaveDAO.java</file>
+            <file>file:/D:/Telkom%20university/Sem%204/PBO/Tubes%20PBO/tubesPBO/src/java/servlet/SaveServlet.java</file>
+            <file>file:/D:/Telkom%20university/Sem%204/PBO/Tubes%20PBO/tubesPBO/src/java/servlet/SavedVideoServlet.java</file>
+            <file>file:/D:/Telkom%20university/Sem%204/PBO/Tubes%20PBO/tubesPBO/web/saved.jsp</file>
         </group>
     </open-files>
 </project-private>
